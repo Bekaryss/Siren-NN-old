@@ -1,6 +1,7 @@
 import glob
 import pickle
 import numpy as np
+import gc
 from music21 import converter, instrument, note, chord, duration, stream, midi
 
 
@@ -92,6 +93,7 @@ class MidiUtils:
         return np.concatenate(sequence_list, axis=0)
 
     def IO_create(self, matrix):
+        gc.collect()
         network_input = np.zeros((matrix.shape[0] - self.sequence_length, self.sequence_length, self.range))
         network_output = np.zeros((matrix.shape[0] - self.sequence_length, self.range))
         for i in range(0, matrix.shape[0] - self.sequence_length, 1):
