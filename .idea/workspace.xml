@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/MidiUtils.py" line="123" />
+    <bookmark url="file://$PROJECT_DIR$/MidiUtils.py" line="133" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec1d9ddb-8ca8-4480-8f80-3f0449015b7d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/predict_song/In_Zanarkand.mid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MidiUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidiUtils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Newron.py" beforeDir="false" afterPath="$PROJECT_DIR$/Newron.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midi_songs/JENOVA.mid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/midi_songs/Life_Stream.mid" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MidiUtils.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MidiUtils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MidiUtils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+            <state relative-caret-position="300">
+              <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -54,11 +48,20 @@
       <file leaf-file-name="Newron.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Newron.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="840">
               <caret line="59" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -90,10 +93,10 @@
         <option value="$PROJECT_DIR$/midi_utils.py" />
         <option value="$PROJECT_DIR$/newron.py" />
         <option value="$PROJECT_DIR$/install.sh" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Newron.py" />
         <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/MidiUtils.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -553,13 +556,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/midi_utils.py" />
     <entry file="file://$PROJECT_DIR$/platform" />
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/install.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -586,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Newron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="840">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -596,11 +592,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MidiUtils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        <state relative-caret-position="300">
+          <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>

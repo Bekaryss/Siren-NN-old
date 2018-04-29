@@ -54,6 +54,16 @@ class MidiUtils:
         print(prediction_output)
         self.create_midi(prediction_output)
 
+    def get_midi_data(self):
+        self.midiPartsList.clear()
+        count = 0
+        for file in glob.glob(self.midi_file_path):
+            midifile = converter.parse(file)
+            parts = instrument.partitionByInstrument(midifile)
+            self.midiPartsList.append(parts)
+            count += 1
+        print('Got all midi file: ', count)
+
 
     def get_midi_file(self, path):
        self.midiPartsList.clear()
