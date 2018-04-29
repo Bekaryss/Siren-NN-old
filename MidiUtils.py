@@ -32,21 +32,38 @@ class MidiUtils:
         network_input, network_output = self.IO_create(sequence)
         return network_input, network_output
 
-    def postprocessing(self):
-        matrix = np.zeros((1, self.sequence_length, self.range))
+    def get_predict_midi(self, path):
+        seqList = []
+        self.get_midi_file(path)
+
+        for item in self.midiPartsList:
+            nd = self.get_notes(item)
+            matrix_length = int(item.duration.quarterLength / 0.25)
+            sq = self.get_matrix(nd, matrix_length)
+            seqList.append(sq)
+
+        sequence = self.sequence_join(seqList)
+        print("Sequence Created. Size: ", sequence.shape[0], sequence.shape[1])
+        network_input, network_output = self.IO_create(sequence)
+        return network_input, network_output
+
+
+    def postprocessing(self, matrix):
+        # matrix = np.zeros((1, self.sequence_length, self.range))
         prediction_output = self.get_predict_dictionary(matrix)
+        print(prediction_output)
         self.create_midi(prediction_output)
 
 
-    def get_midi_data(self):
+    def get_midi_file(self, path):
        self.midiPartsList.clear()
        count = 0
-       for file in glob.glob(self.midi_file_path):
+       for file in glob.glob(path):
            midifile = converter.parse(file)
            parts = instrument.partitionByInstrument(midifile)
            self.midiPartsList.append(parts)
            count += 1
-       print('Got all midi files: ', count)
+       print('Got all midi file: ', count)
 
     def get_notes(self, midi_file):
         notes = []
