@@ -12,7 +12,9 @@ newron = Newron(128, 0.1, 128, 'sigmoid', 'binary_crossentropy', "rmsprop", 100,
 
 def train():
     list_of_files = glob.glob('weights_files/*')  # * means all if need specific format then *.csv
-    latest_file = max(list_of_files, key=os.path.getctime)
+    latest_file = ''
+    if list_of_files:
+        latest_file = max(list_of_files, key=os.path.getctime)
     print(latest_file)
     input_network, output_network = midiUtil.preprocessing()
     print(input_network.shape[0], input_network.shape[1], input_network.shape[2])

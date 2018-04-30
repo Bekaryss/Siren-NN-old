@@ -5,13 +5,188 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec1d9ddb-8ca8-4480-8f80-3f0449015b7d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midi_songs/In_Zanarkand.mid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidiUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidiUtils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Newron.py" beforeDir="false" afterPath="$PROJECT_DIR$/Newron.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midi_songs/In_Zanarkand.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midi_songs/Yiruma-River-Flows-In-You-silverstar-20151228220043-nonstop2k.com.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.mid" beforeDir="false" afterPath="$PROJECT_DIR$/output.mid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525076092.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525076556.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525076800.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525077204.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525077385.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525077545.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525077562.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525078319.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525080411.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525080524.beka-Lenovo-Y50-70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/tensorboard-logs/events.out.tfevents.1525081831.beka-Lenovo-Y50-70" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-01-0.2412-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-01-0.2462-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-01-0.2660-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-01-0.2687-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-01-0.2747-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-01-0.2817-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-01-0.2819-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-01-0.2952-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-01-0.4951-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-02-0.1420-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-02-0.1421-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-02-0.1428-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-02-0.1465-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-02-0.1469-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-02-0.1471-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-02-0.1478-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-03-0.1177-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-03-0.1337-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-03-0.1416-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-03-0.1424-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-03-0.1441-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-03-0.1461-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-04-0.1036-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-04-0.1227-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-04-0.1339-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-04-0.1401-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-04-0.1407-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-04-0.1409-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-05-0.0980-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-05-0.1116-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-05-0.1267-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-05-0.1359-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-05-0.1360-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-05-0.1382-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-06-0.0932-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-06-0.1027-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-06-0.1189-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-06-0.1295-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-07-0.0856-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-07-0.0942-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-07-0.1228-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-07-0.1235-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-08-0.0832-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-08-0.0879-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-08-0.1147-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-08-0.1164-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-09-0.0804-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-09-0.0818-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-09-0.1089-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-09-0.1100-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-10-0.0741-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-10-0.0777-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-10-0.1026-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-10-0.1034-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-11-0.0725-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-11-0.0744-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-11-0.0977-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-11-0.0983-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-12-0.0690-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-12-0.0701-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-12-0.0934-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-12-0.0960-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-13-0.0664-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-13-0.0686-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-13-0.0895-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-13-0.0910-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-14-0.0638-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-14-0.0649-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-14-0.0859-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-14-0.0873-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-15-0.0612-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-15-0.0625-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-15-0.0827-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-15-0.0835-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-16-0.0595-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-16-0.0605-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-16-0.0812-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-16-0.0816-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-17-0.0556-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-17-0.0585-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-17-0.0784-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-17-0.0786-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-18-0.0540-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-18-0.0556-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-18-0.0750-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-18-0.0768-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-19-0.0518-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-19-0.0538-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-19-0.0729-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-19-0.0756-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-20-0.0496-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-20-0.0535-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-20-0.0710-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-20-0.0721-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-21-0.0486-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-21-0.0511-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-21-0.0706-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-22-0.0465-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-22-0.0487-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-22-0.0680-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-23-0.0474-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-23-0.0676-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-24-0.0430-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-24-0.0459-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-24-0.0659-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-25-0.0411-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-25-0.0452-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-25-0.0649-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-26-0.0411-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-26-0.0440-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-26-0.0623-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-27-0.0395-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-27-0.0426-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-28-0.0380-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-28-0.0414-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-29-0.0370-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-29-0.0407-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-30-0.0365-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-30-0.0397-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-31-0.0342-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-31-0.0389-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-32-0.0335-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-32-0.0383-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-33-0.0365-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-34-0.0358-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-35-0.0353-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-36-0.0342-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-37-0.0333-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-38-0.0324-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-39-0.0315-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-41-0.0304-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-43-0.0294-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-44-0.0286-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-45-0.0281-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-47-0.0272-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-48-0.0266-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-49-0.0254-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-51-0.0244-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-53-0.0237-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-54-0.0232-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-56-0.0228-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-57-0.0221-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-58-0.0214-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-59-0.0206-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-62-0.0205-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-63-0.0190-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-64-0.0189-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-66-0.0185-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-68-0.0179-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-69-0.0176-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-70-0.0174-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-73-0.0173-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-74-0.0173-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-75-0.0168-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-76-0.0164-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-77-0.0162-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-79-0.0161-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-80-0.0155-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-81-0.0153-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-82-0.0151-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-83-0.0135-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-87-0.0134-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-90-0.0134-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-91-0.0131-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-93-0.0124-bigger.hdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights_files/weights-improvement-95-0.0112-bigger.hdf5" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +196,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Siren$Main.coverage" NAME="Main Coverage Results" MODIFIED="1525082085806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Siren$Main.coverage" NAME="Main Coverage Results" MODIFIED="1525089168725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Siren$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1524329362180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -35,11 +210,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+            <state relative-caret-position="440">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -47,14 +222,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Newron.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Newron.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Newron.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -88,8 +260,8 @@
         <option value="$PROJECT_DIR$/install.sh" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/MidiUtils.py" />
-        <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/Newron.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
       </list>
     </option>
   </component>
@@ -124,6 +296,16 @@
             </path>
             <path>
               <item name="Siren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Siren" type="462c0819:PsiDirectoryNode" />
+              <item name="midi_songs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Siren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Siren" type="462c0819:PsiDirectoryNode" />
+              <item name="predict_song" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Siren" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -145,6 +327,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/midi_songs" />
       <recent name="$PROJECT_DIR$/predict_song" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -228,16 +411,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50026953" side_tool="true" weight="0.32924336" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32889345" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32889345" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49973047" weight="0.32889345" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959569" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959569" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -323,9 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -371,9 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -405,9 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -440,9 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="57" column="33" lean-forward="true" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -468,9 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -486,9 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,9 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="65" column="15" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -560,22 +721,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
+    <entry file="file://$PROJECT_DIR$/Newron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Newron.py">
+    <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        <state relative-caret-position="440">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
