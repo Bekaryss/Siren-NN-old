@@ -23,7 +23,7 @@ class MidiUtils:
 
         for item in self.midiPartsList:
             nd = self.get_notes(item)
-            matrix_length = int(item.duration.quarterLength / 0.25)
+            matrix_length = int(item.duration.quarterLength / self.time_step)
             sq = self.get_matrix(nd, matrix_length)
             seqList.append(sq)
 
@@ -32,13 +32,13 @@ class MidiUtils:
         network_input, network_output = self.IO_create(sequence)
         return network_input, network_output
 
-    def get_predict_midi(self, path):
+    def postprocessing_get_midi(self, path):
         seqList = []
         self.get_midi_file(path)
 
         for item in self.midiPartsList:
             nd = self.get_notes(item)
-            matrix_length = int(item.duration.quarterLength / 0.25)
+            matrix_length = int(item.duration.quarterLength / self.time_step)
             sq = self.get_matrix(nd, matrix_length)
             seqList.append(sq)
 
@@ -46,7 +46,6 @@ class MidiUtils:
         print("Sequence Created. Size: ", sequence.shape[0], sequence.shape[1])
         network_input, network_output = self.IO_create(sequence)
         return network_input, network_output
-
 
     def postprocessing(self, matrix):
         # matrix = np.zeros((1, self.sequence_length, self.range))
@@ -73,7 +72,7 @@ class MidiUtils:
            parts = instrument.partitionByInstrument(midifile)
            self.midiPartsList.append(parts)
            count += 1
-       print('Got all midi file: ', count)
+       print('Got midi file: ', count)
 
     def get_notes(self, midi_file):
         notes = []
