@@ -1,8 +1,11 @@
-Keras==2.1.5
+Keras==2.1.6
 matplotlib==2.1.2
 numpy==1.14.0
 pandas==0.22.0
 tensorflow==1.7.0
 h5py==2.7.1
+<<<<<<< HEAD
 
+=======
+>>>>>>> dce6ecd75c132aedbf44ba858b60154dbe026feb
 music21==5.1.0
