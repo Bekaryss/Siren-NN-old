@@ -71,11 +71,6 @@ class Newron:
             cooldown=0,
             min_lr=0))
 
-        callbacks_list.append(TensorBoard(
-            log_dir= "weights_files/tensorboard-logs",
-            histogram_freq=0,
-            write_graph=True,
-            write_images=False))
 
         model.fit(network_input, network_output, epochs=self.epochs, batch_size=self.bach_size, callbacks=callbacks_list, verbose=1)
 
@@ -103,9 +98,9 @@ class Newron:
                 for j in range(prediction.shape[1]):
                     prediction[i][j] = round(prediction[i][j])
 
-            print(prediction[0, 0:70])
-            pattern[0, 0:pattern.shape[1] - 1, :] = pattern[0, 1:pattern.shape[1], :]
-            pattern[0, pattern.shape[1] - 1, :] = prediction
+            print(prediction[0:3, 0:70])
+            pattern[0:3, 0:pattern.shape[1] - 1, :] = pattern[0:3, 1:pattern.shape[1], :]
+            pattern[0:3, pattern.shape[1] - 1, :] = prediction
 
             prediction_output[note_index, :] = prediction
         return prediction_output

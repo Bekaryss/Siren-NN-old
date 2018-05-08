@@ -3,11 +3,17 @@ from Newron import Newron
 from sys import stdin
 import glob
 import os
-
+from celery import task
 
 
 midiUtil = MidiUtils('midi_songs/*.mid', 30, 100, 60, 0.25, 'output.mid')
 newron = Newron(128, 0.1, 128, 'sigmoid', 'binary_crossentropy', "rmsprop", 100, 64)
+
+@task
+def make(dense, dropout, lstm, activation, loss, optimizer, epochs, batch_size):
+    print("hello")
+    loss = 1
+    return loss
 
 
 def train():
